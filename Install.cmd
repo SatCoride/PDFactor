@@ -1,0 +1,1 @@
+copy PDFactor.lnk %appdata%\Microsoft\Windows\SendTo
