@@ -1,0 +1,4 @@
+%appdata%\Microsoft\Windows\SendTo
+
+%localappdata%\PDFactor\PDFactor.exe
+
